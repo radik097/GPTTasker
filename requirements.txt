@@ -1,0 +1,4 @@
+falcon
+pymysql
+sqlalchemy
+bcrypt
